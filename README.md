@@ -13,13 +13,13 @@ This project documents my hands-on exploration of Zendesk, an industry-standard 
 - **Agents created:** 3 (Mike Torres, Sarah Chen, David Okafor)
 - **Ticket fields configured:** Type, Priority, Assignee
 
-![Account Setup](screenshots/01-account-setup.png)
+![Account Setup](01-account-setup.png)
 *Zendesk account configured as KarlTech IT Support with admin access*
 
-![Agent Accounts](screenshots/02-agent-accounts.png)
+![Agent Accounts](02-agent-accounts.png)
 *Three agent accounts created to simulate a real help desk team*
 
-![Ticket Fields](screenshots/03-ticket-fields.png)
+![Ticket Fields](03-ticket-fields.png)
 *Ticket fields configured including Type, Priority, and Assignee*
 
 ---
@@ -32,22 +32,22 @@ To demonstrate understanding of the full ticket lifecycle, I created and managed
 
 ### Ticket Created — Status: Open
 
-![Ticket Created](screenshots/04-ticket-created.png)
+![Ticket Created](04-ticket-created.png)
 *Ticket #2 created and assigned to Agent Mike Torres with Priority set to High*
 
 ### Internal Troubleshooting Note Added
 
-![Internal Note](screenshots/05-internal-note.png)
+![Internal Note](05-internal-note.png)
 *Internal note documenting troubleshooting steps: verified power connections, tested outlet, attempted hard reset, identified likely PSU or motherboard failure*
 
 ### Status Changed to Pending
 
-![Pending Status](screenshots/06-pending.png)
+![Pending Status](06-pending.png)
 *Ticket moved to Pending status while awaiting hardware inspection*
 
 ### Ticket Resolved — Status: Solved
 
-![Solved Status](screenshots/07-solved.png)
+![Solved Status](07-solved.png)
 *Ticket marked as Solved after hardware issue was diagnosed and resolved*
 
 ---
