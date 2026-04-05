@@ -13,13 +13,13 @@ This project documents my hands-on exploration of Zendesk, an industry-standard 
 - **Agents created:** 3 (Mike Torres, Sarah Chen, David Okafor)
 - **Ticket fields configured:** Type, Priority, Assignee
 
-![Account Setup](01-account-setup.png)
+![Account Setup](SC%201%20-%20Account%20Name%20.png)
 *Zendesk account configured as KarlTech IT Support with admin access*
 
-![Agent Accounts](02-agent-accounts.png)
+![Agent Accounts](SC%202%20-%20Agent%20Accounts.png)
 *Three agent accounts created to simulate a real help desk team*
 
-![Ticket Fields](03-ticket-fields.png)
+![Ticket Fields](SC%203%20-%20Fields%20Page%20.png)
 *Ticket fields configured including Type, Priority, and Assignee*
 
 ---
@@ -32,22 +32,22 @@ To demonstrate understanding of the full ticket lifecycle, I created and managed
 
 ### Ticket Created — Status: Open
 
-![Ticket Created](04-ticket-created.png)
+![Ticket Created](SC%204%20-%20Ticket%201%20created.png)
 *Ticket #2 created and assigned to Agent Mike Torres with Priority set to High*
 
 ### Internal Troubleshooting Note Added
 
-![Internal Note](05-internal-note.png)
+![Internal Note](SC%205%20Interal%20trouble%20shooting%20note.png)
 *Internal note documenting troubleshooting steps: verified power connections, tested outlet, attempted hard reset, identified likely PSU or motherboard failure*
 
 ### Status Changed to Pending
 
-![Pending Status](06-pending.png)
+![Pending Status](SC%206%20-%20Pending%20Status.png)
 *Ticket moved to Pending status while awaiting hardware inspection*
 
 ### Ticket Resolved — Status: Solved
 
-![Solved Status](07-solved.png)
+![Solved Status](SC%207%20-%20Status%20-%20Solved.png)
 *Ticket marked as Solved after hardware issue was diagnosed and resolved*
 
 ---
@@ -70,4 +70,4 @@ Ticketing systems like Zendesk, ServiceNow, and Jira Service Management are stan
 
 ## Tools Used
 
-- Zendesk 
+- Zendesk (cloud trial)
